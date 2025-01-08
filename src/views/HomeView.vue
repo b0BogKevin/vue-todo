@@ -4,6 +4,6 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
-    
+    <h1>Feladat követő rendszeralkalmazás :)</h1>
   </main>
 </template>
