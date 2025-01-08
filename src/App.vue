@@ -9,9 +9,6 @@ import HelloWorld from './components/HelloWorld.vue'
       <nav>
         <RouterLink to="/tasks">Tasks</RouterLink>
         <RouterLink to="/newTask">New Task</RouterLink>
-        <RouterLink to="/editTask">Edit Task</RouterLink>
-
-
       </nav>
    
 
