@@ -1,9 +1,11 @@
 <script setup>
+import router from '@/router';
 import TheWelcome from '../components/TheWelcome.vue'
+router.push("/tasks")
 </script>
 
 <template>
   <main>
-    <h1>Feladat követő rendszeralkalmazás :)</h1>
+   
   </main>
 </template>
