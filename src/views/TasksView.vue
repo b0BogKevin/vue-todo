@@ -1,6 +1,7 @@
 <template>
-  <div class="content">
-    <h1>Todo</h1>
+  <h1>Todo</h1>
+  <div class="content d-flex flex-wrap">
+    
 <br>
 
     <div class="card shadow m-1" style="width: 18rem;"  v-for="todo in taskStore.tasks" :key="index">
